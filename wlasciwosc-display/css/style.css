@@ -1,35 +1,4 @@
-#elementy-liniowe {
-    
-}
-
-#elementy-blokowe p {
-    display: inline;
-}
-
-#elementy-inline-block ul li {
-    display: inline-block;
-    width: 100px;
-    height: 100px;
-    background-color: deeppink;
-    text-align: center;
-}
-
-#display-none p {
-    display: none;
-}
-
-.pierwszy {
-    background-color: yellow;
-}
-
-.drugi {
-    background-color: aqua;
-}
-
-.trzeci {
-    background-color: blue;
-}
-
-.czwarty {
-    background-color: darkolivegreen;
+img {
+    width: 20%;
+    height: 20%;
 }
