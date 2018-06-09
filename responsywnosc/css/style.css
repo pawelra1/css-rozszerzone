@@ -1,0 +1,21 @@
+.box {
+    width: 100%;
+    border: 1px solid orange;
+    font-size: 24px;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+    height: 600px;
+}
+
+@media (min-width: 760px) {
+    .box {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1062px) {
+    .box {
+        width: 25%;
+    }
+}
